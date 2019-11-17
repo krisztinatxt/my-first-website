@@ -23,7 +23,7 @@ My first webpage helps you to understand the structure of the frameworks, coding
  
   README contains the most important information about this project.
 
-##Licence
+## Licence
 
 The code is written by the team of the Code Institute.
 
